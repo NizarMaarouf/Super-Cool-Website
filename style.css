@@ -4,10 +4,11 @@
   box-sizing: border-box;
 }
 body {
-  margin: 0.5rem;
+  margin: 0.5rem 2rem;
   background: #edffec;
   font-family: monospace;
   color: #222;
+  border:#FF6067 2rem solid;
 }
 .container {
   max-width: 75rem;
